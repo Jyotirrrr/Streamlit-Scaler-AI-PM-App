@@ -19,14 +19,6 @@ This prototype demonstrates simple rule-based resume parsing, personalized nugge
 
 ---
 
-## File structure
-├─ app.py # Main Streamlit app (you provided as scalar.py/app.py)
-├─ README.md
-├─ requirements.txt # (create from dependencies listed below)
-└─ (optional) assets/ # images, sample resumes, etc.
-
-
----
 
 ## Dependencies
 
